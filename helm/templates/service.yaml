@@ -38,4 +38,4 @@ spec:
       protocol: TCP
       port: 80 #LoadBalancer
       targetPort: 80 #POD
-  type: NodePort
+  type: Cluster IP
