@@ -4,4 +4,4 @@ container:
 
 replicasNumber: 1
 
-name: test
+name: demo
