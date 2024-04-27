@@ -1,0 +1,7 @@
+
+container:
+  image: ilonamohilnikova/hello:latest
+
+replicasNumber: 1
+
+name: demo
